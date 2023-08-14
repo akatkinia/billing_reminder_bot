@@ -1,0 +1,5 @@
+aiogram
+openpyxl
+pandas
+requests
+tabulate
